@@ -49,7 +49,7 @@ body {
   content: "";
   position: absolute;
   left: -2px;
-  top: 29px;
+  top: 28px;
   border-width: 9px;
   border-style: solid;
   border-color: transparent transparent transparent var(--offer-color);
