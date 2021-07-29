@@ -241,8 +241,8 @@ iframe {
 /* Mobile Phones */
 @media screen and (max-width: 450px) {
   .container {
-    padding-right: 0;
-    padding-left: 0;
+    padding-right: 2px;
+    padding-left: 2px;
   }
 
   .multi-widget-wrapper .widget__content .title {
