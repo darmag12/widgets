@@ -124,7 +124,7 @@ body {
 
 .rating__num {
   font-size: 12px;
-  padding-left: 2px;
+  padding-left: var(--padding-2px);
   opacity: var(--opacity-widget-content);
 }
 
@@ -253,8 +253,7 @@ iframe {
 /* Mobile Phones */
 @media screen and (max-width: 450px) {
   .container {
-    padding-right: 2px;
-    padding-left: 2px;
+    padding: 0 var(--padding-2px);
   }
 
   .widget__content .city {
